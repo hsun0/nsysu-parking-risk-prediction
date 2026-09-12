@@ -1,0 +1,6 @@
+**/.venv/
+**/__pycache__/
+**/.cache/
+data_after_process/violate_cleaned.csv
+src/X_df.csv
+src/Y_df.csv
